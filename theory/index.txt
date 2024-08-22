@@ -1,0 +1,19 @@
+dekho sbse pehle yeh jaanna jruri hai ki flex box ki bhut sari properties hai , kuch hai container(parent) k liye and kuch hai items k liye(child). ab hum one by one hr property ko seekhenge
+pdf mein dekh lo 
+
+- one thing to remember jo flex box mein container hai uski height and width dene ki jrurat nhi because ismein container apni height and width items k hisab se dhal lega 
+example - agr aapne container ki fixed height di to  container ki width items k hisab se apne aap adjust ho jayegi . and agr aapne container ki  fixed width di to  container ki height items k hisab se apne aap adjust ho jayegi  . but agr container ki width and height fixed hai to items flow ho jayengi mtlb items container k bahr nikl jayegi 
+
+-container
+1-display-flex property
+2-flex direction property
+3-understanding flex axis 
+4-justify content property 
+5-align items property
+6-flex wrap 
+7-align content (we can only use this if we use flex wrap:wrap; already)(but ismein aap justify content and align items ka use nhi kr skte iske sath aap gaps ka use krte)
+8-row gap and columns gap (only be used with flex wrap property)( isko aap justify content and align items ka use nhi kr skte pr aap align content k sath ise use kr skte )
+
+
+-item properties 
+1 - align self property 
